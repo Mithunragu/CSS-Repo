@@ -1,0 +1,89 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    background-image: url(ta.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 60px;
+    color: white;
+}
+.one{
+    background-color:rgb(221, 92, 92);
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+    /* border: 2px solid black; */
+    padding-top: 60px;
+    margin-top: 50px;
+    margin-left: 110PX;
+    box-shadow:0px 0px 40px rgba(0, 0, 0, 0.5);
+    
+    background-color: transparent;
+    /* box-shadow: 50% 50% 60% rgb(223, 27, 27); */
+    /* opacity: 0.75; */
+   border-radius: 10px;
+    
+}
+    
+a{margin-left: 25px;
+    color: white;
+     
+
+}
+.log{
+   text-decoration: none;
+}  
+
+
+.two{
+    margin-left: 25px;
+    width:350px ;
+    height: 40px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 3px solid rgb(44, 197, 62);
+}
+.sign{
+    text-decoration: none; border-bottom:3px solid rgb(230, 15, 33); 
+}
+.three{
+    margin-left: 25px;
+    width:350px ;
+    height: 40px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 3px solid rgb(245, 248, 245);
+    padding: 2px;
+}
+.five{
+    margin-top: 20px;
+    margin-left: 90px;
+    color: white;
+    
+}
+button{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding: 10px;
+    width: 130px;
+}
+::placeholder{
+    color: white;
+}
+.cla{
+    padding-top: 90px;
+    margin-left: 40%;
+    margin-top: -30%;
+     box-shadow:0px 0px 60px rgba(0, 0, 0, 0.5);
+     height: 370px;
+     width: 400px;
+     border-radius: 10px;
+
+    
+}

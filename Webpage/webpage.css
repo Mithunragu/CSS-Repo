@@ -1,0 +1,74 @@
+body{
+   background-image: url(circle.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+ 
+}
+#three{
+    background-image: url(sub.jpeg);
+   border-radius: 200px;
+   margin-top:60px;
+   border: solid   white;
+   background-clip: text;
+   -webkit-background-clip: text;
+   color: transparent;
+  
+   
+}
+.imaje{
+   width: 9em;
+   height: 9em;
+   border: solid white;
+   padding-left: 25px;
+}
+.call{
+   padding-left: 25px;
+   height:9em;
+   border: solid white;
+   width: 12.02em;
+   
+}
+
+.button{
+color: aliceblue;
+margin-left: 0%;
+font-size: 20px;
+}
+.button1{
+   color: aliceblue;
+   margin-left: 45% ;
+   font-size: 20px;
+}
+.button2{
+   color: aliceblue;
+   margin-left: 145% ;
+   font-size: 20px;
+}
+.button3{
+   color: aliceblue;
+   margin-left: 180% ;
+   font-size: 20px;
+}
+.button4{
+   color: aliceblue;
+   margin-left: 210% ;
+   font-size: 20px;
+}
+.button5{
+   color: aliceblue;
+   margin-left: 260% ;
+   /* padding-right: 10px; */
+   font-size: 20px;
+}
+.white{
+   background-color: aliceblue;
+   border-radius: 200px;
+}
+.about{
+   color: aliceblue;
+}.about1{
+   color: aliceblue;
+   text-align: center;
+   font-size: x-large;
+}

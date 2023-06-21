@@ -1,0 +1,38 @@
+table,th,td{
+    border-collapse: collapse;
+    margin: 0 auto;
+    /* border: 1px solid ; */
+    height: 60px;
+    width:800px;
+   text-align: center;
+   margin-top: 10%;
+
+}
+th,td{
+    border: none;
+    
+}
+th{
+    background-color: black;
+    color: white;
+}
+.one{
+    background-color: blue;
+    color: antiquewhite;
+}
+.two{
+    background-color: green;
+    color: whitesmoke;
+}
+.three{
+    background-color: yellow;
+    color: white;
+}
+.four{
+    background-color: red;
+    color: white;
+}
+.six{
+    background-color: blue;
+    color: white;
+}

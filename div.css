@@ -1,0 +1,22 @@
+
+#main{
+    background-color: aquamarine;
+    height: 900px;
+    width: 300px;
+    color: rgb(4, 144, 58);
+}
+#two>h2{
+    color: rgb(188, 234, 24);
+}
+.one h1{
+    background-color: brown;
+    color: blanchedalmond;
+}
+.one~h2{
+    background-color: rgb(30, 73, 111);
+    color: black;
+}
+#two+h2{
+    background-color: blue;
+    color: aliceblue;
+}

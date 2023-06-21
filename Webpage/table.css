@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.one {
+    background-color: rgb(62, 230, 62);
+    height: 70vh;
+    width: 88%;
+    padding: 95px;
+    padding-top: 90px;
+}
+#fi{
+    color: rgb(5, 51, 35);
+    
+}
+table{
+    border: 2px solid rgb(49, 220, 52);
+    background-color: aliceblue;
+    border-collapse: separate;
+    margin: 0 auto;
+    font-size: 100%;
+    text-align: left; 
+}
+
+th,
+td {
+    padding: 30px;
+    width: 150px;
+    border-bottom: 2px solid green;
+}
+
+#fi {
+    border-radius: 2%;
+
+    background-color: aliceblue;
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-size: 150%;
+}
+
+.three {
+    background-color: rgb(224, 224, 118);
+    border-bottom: yellow;
+}
+
+thead{
+    border-top-left-radius: 20px;
+}
+h3{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin-top: -4%;
+
+   
+
+}
+tr:hover{
+background-color: aquamarine;
+}

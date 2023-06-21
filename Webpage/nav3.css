@@ -1,0 +1,101 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#main{
+    background-color: rgb(252, 251, 251);
+
+    height: 100vh;
+    width: 100%;
+}
+.one{
+    background-image: url("ammu.jpeg");
+     height: 50vh;
+     width: 25%; 
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 250px;
+    top: 67px;
+   
+
+
+    
+}
+.two{
+    margin-left: 800px;
+    padding-top: 60px;
+}
+.first{
+    font-size: xx-large;
+    font-family: 'Kanit', sans-serif;
+    color: orangered;
+    font-weight: 800;
+    margin-left:-110px ;
+    
+}
+button{
+    background-color: orange;
+    color: white;
+    height: 30px;
+    width: 130px;
+   
+
+}
+.three{
+    height: 300px;
+    width: 350px;
+    background-color: red;
+    text-align: center;
+   /* margin-top: 3em;
+    margin-left: -690px; */
+
+
+ }  
+ .four{  
+    height: 300px;
+    width: 350px;
+    background-color: rgb(228, 111, 15);
+   /* margin-top: 3em;
+    margin-left: -690px; */
+    text-align: center;
+}
+.five{  
+    height: 300px;
+    width: 350px;
+    background-color: rgb(235, 183, 140);
+   /* margin-top: 3em;
+    margin-left: -690px; */
+    text-align: center;
+}
+.parent{
+    display:flex; 
+    margin-left:200px;
+    margin-top:60px ;
+    
+    /* margin-right:200px; */
+    /* margin:0 auto; */
+    
+} 
+h2{
+    color: white    ;
+}
+.col{
+    color: white;
+    
+}
+.link{
+    background-color: white;
+    color: orange;
+    border: none;
+    margin-top: 80px;
+}
+.plan{
+    color: white;
+}
+.links{
+    background-color: white;
+    color: orange;
+    border: none;
+    margin-top: 60px;
+}

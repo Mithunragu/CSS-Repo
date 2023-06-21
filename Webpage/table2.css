@@ -1,0 +1,30 @@
+table,th,td{
+    border: none;
+    border-collapse: collapse;
+    font-size: x-large;
+    text-align: center;
+    margin:0 auto;
+    /* padding-bottom: 40px;
+    padding-right: 80px; */
+    margin-top: 70px;
+    vertical-align: bottom;
+    height: 40px;
+    
+    /* text-align: end; */
+}
+/* .one{
+    background-color: palevioletred;
+}
+.two{
+    background-color: purple;
+} */
+tr:nth-child(even){
+    background-color: palevioletred;
+}
+tr:nth-child(odd){
+    background-color: purple;
+}
+tr,td{
+    vertical-align: bottom;
+    padding: 10px;
+}

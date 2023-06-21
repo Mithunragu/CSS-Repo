@@ -1,0 +1,28 @@
+.parent{
+    display: flex;
+    
+    margin-left: 300px;
+    margin-top: 200px;
+}
+.one{
+    margin-top: 400px;
+    height: 300px;
+    width: 300px;
+    /* box-shadow: 0px 0px 5px 4px black; */
+    margin-left: 500px;
+    transform: rotate(240deg);
+}
+img{
+    height: 40vh;
+    width: 30vw;
+    box-shadow: 0px 0px 5px 4px black;
+}
+.two{
+    margin-top: 300px;
+    margin-left: 100px;
+    height: 350px;
+    width: 350px;
+    
+    transform: rotate(-70deg);
+    
+}   

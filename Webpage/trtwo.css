@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(205, 57, 82);
+    display: flex;
+}
+.one{
+    background-color: black;
+    height: 700px;
+    width: 500px;
+    margin-top: 190px;
+    margin-left: 490px;
+    border-radius: 20px;
+    color: white;
+    font-size: xx-large;
+    margin-right: -600px;
+     transform: rotate(-20deg); 
+     box-shadow: 5px 5px 4px 3px black; 
+    
+}
+.two{
+    background-color: white;
+    height: 700px;
+    width: 500px;
+    margin-top: 190px;
+    margin-left: 490px;
+    border-radius: 20px;
+ 
+    font-size: xx-large;++-+-
+    padding-top:40px;
+    transform: rotate(20deg);
+    box-shadow: 5px 5px 4px 3px black;
+}
+i{
+    margin-top: 500px;
+    margin-left: 100px;
+    
+}
+.ty{
+    font-size: xx-large;
+    margin-left: 20px;
+
+}

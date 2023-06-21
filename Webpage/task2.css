@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first {
+    background-color: rgb(126, 14, 14);
+    height: 100vh;
+    width: 100%;
+    padding-top: 130px;
+
+
+}
+
+.one {
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+.three {
+    text-align: center;
+    color: red;
+    font-family: 'Playfair Display', serif;
+
+}
+
+.four {
+    height: 50px;
+    width: 350px;
+    margin-top: 40px;
+    border-radius: 10px;
+    padding-left: 20px;
+
+
+
+}
+
+.five {
+    height: 50px;
+    width: 350px;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-left: 20px;
+
+}
+
+.six {
+    height: 50px;
+    width: 350px;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-left: 20px;
+
+}
+
+.seven {
+    height: 50px;
+    width: 350px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: rgb(126, 14, 14);
+    color: aliceblue;
+    font-size: x-large;
+
+}
+
+.fa-solid.fa-user.fa-flip {
+    margin-left: -35px;
+    
+}
+.four{
+    margin-right: 3%;
+}
+.fa-solid.fa-envelope.fa-fade{
+    margin-left: -25px;
+    
+}
+.fa-solid.fa-lock.fa-beat-fade{
+    margin-left: -25px;
+}
